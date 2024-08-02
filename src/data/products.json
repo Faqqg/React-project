@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Remera Nike",
+        "id": 1,
+        "category": "remeras",
+        "detail": "Lorem ipsum",
+        "img": "https://celadasa.vtexassets.com/arquivos/ids/248258-1600-auto?v=638386978822570000&width=1600&height=auto&aspect=true"      
+    },
+    {
+        "name": "Zapatillas vans",
+        "id": 2,
+        "category": "zapatillas",
+        "detail": "Lorem ipsum",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_980370-MLA26742020163_012018-O.webp"      
+    },
+    {
+        "name": "Buzo Levis",
+        "id": 3,
+        "category": "buzos",
+        "detail": "Lorem ipsum",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqC-OHxHNEact2KLIGKnDE4O6Gpt5Ti0IrQQ&s"      
+    }
+]
